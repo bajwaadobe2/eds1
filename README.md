@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Edge Delivery 1
+Here is Edge Delivery project's test
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--eds1--bajwaadobe2.aem.page/
+- Live: https://main--eds1--bajwaadobe2.aem.live/
 
 ## Installation
 
